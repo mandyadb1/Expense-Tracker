@@ -36,6 +36,7 @@ Application Features:
    - download the expense as excel format.Used Apache Poi to write into excel sheet.
    - see the total expense
    - enter the email and clicking on send button, an email will be sent to the entered email with an attachment od excel sheet with you      your expense.
+   - Please give the FROM email credentials in application.properties.
 6. EMPLOYEE EXPENSE TRACKER, its an other part of the same application with some additional features
    - An expense can be added to a perticular employee
    - If the employee is not present in the drop down menu, a new employee can be added
